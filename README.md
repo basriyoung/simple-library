@@ -28,7 +28,7 @@ Make sure you have **Python 3.x** installed on your local computer.
 2. Save the main script as `perpus.py`.
 3. Open your terminal or Command Prompt, navigate to the folder, and run:
    ```bash
-   python perpus.py
+   python sistem-perpus.py
    ```
 
 ## 📄 License
