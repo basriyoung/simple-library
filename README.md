@@ -25,7 +25,7 @@ This system strictly applies 5 fundamental classes to address architectural scal
 Make sure you have **Python 3.x** installed on your local computer.
 
 1. Clone or download this repository.
-2. Save the main script as `perpus.py`.
+2. Save the main script as `sistem-perpus.py`.
 3. Open your terminal or Command Prompt, navigate to the folder, and run:
    ```bash
    python sistem-perpus.py
